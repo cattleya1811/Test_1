@@ -1,0 +1,23 @@
+Finis - Starting
+Finis checking for AuditBoot key
+Finis AuditBoot key not 1
+Application recovery mode
+Finis completed
+
+ccccc
+ddddd
+
+Finis - Starting
+Finis checking for AuditBoot key
+Finis AuditBoot key not 1
+Application recovery mode
+Finis completed
+
+Finis - Starting
+Finis checking for AuditBoot key
+Finis AuditBoot key not 1
+Application recovery mode
+Finis completed
+
+aaaaa
+bbbbb
